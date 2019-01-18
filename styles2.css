@@ -1,0 +1,19 @@
+h1  {
+    color: black;
+}
+
+.navbar-light .navbar-brand {
+    color: black;
+}
+
+.jumbotron {
+    background-image: url(IMG_4010.JPG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:100%;
+    text-align: center;
+}
+
+.display-4 {
+    vertical-align: middle;
+}

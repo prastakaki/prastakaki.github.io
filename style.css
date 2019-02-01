@@ -34,7 +34,7 @@ h1 {
     border-color: #4591b1;
 }
 
-.navbar-brand img {
+a.navbar-brand img {
     width: 200px;
 }
 
@@ -132,7 +132,7 @@ h1 {
     line-height: 2;
 }
 
-.footer a {
+a.footer a {
     color: white;
 }
 
@@ -195,7 +195,7 @@ h5 {
     margin-bottom: 0rem;
 }
 
-.col-sm-8 a {
+a.col-sm-8 a {
     color: #614b93;
     font-weight: bold;
 }
@@ -207,7 +207,7 @@ h5 {
     border-color: #f8f9fa;
 }
 
-.container-light h3 {
+a.container-light h3 {
     font-family: 'Major Mono Display', monospace;
     font-weight: bold;
     color: #614b93;
@@ -222,5 +222,4 @@ h4 {
     font-size: 20px;
     border-bottom: 1px solid #212529;
     margin: 10px 0;
-}
 }

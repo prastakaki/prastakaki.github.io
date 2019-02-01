@@ -132,7 +132,7 @@ a.navbar-brand img {
     line-height: 2;
 }
 
-a.footer a {
+.footer a {
     color: white;
 }
 
@@ -195,7 +195,7 @@ h5 {
     margin-bottom: 0rem;
 }
 
-a.col-sm-8 a {
+.col-sm-8 a {
     color: #614b93;
     font-weight: bold;
 }
@@ -207,7 +207,7 @@ a.col-sm-8 a {
     border-color: #f8f9fa;
 }
 
-a.container-light h3 {
+.container-light h3 {
     font-family: 'Major Mono Display', monospace;
     font-weight: bold;
     color: #614b93;
